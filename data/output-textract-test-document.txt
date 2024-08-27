@@ -15,12 +15,3 @@ efficitur diam magna in dui.
 3. Lorem ipsum
 4. Pellentesque pellentesque facilisis dui, vel feugiat eros molestie at
 
-1. Ut non enim dui. Praesent facilisis leo vel elit convallis vulputate.
-
-2. Pellentesque pulvinar, libero cursus laoreet suscipit, velit velit pulvinar eros, id
-efficitur diam magna in dui.
-
-3. Lorem ipsum
-
-4. Pellentesque pellentesque facilisis dui, vel feugiat eros molestie at
-
